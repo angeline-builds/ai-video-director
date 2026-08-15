@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 视频导演式工作流"
+  short_description: "把视频想法变成可生成、可检查、可局部迭代的执行方案"
+  default_prompt: "使用 $ai-video-director，把我的 AI 视频想法整理成适配目标工具的创作方案与可复制 Prompt。"
